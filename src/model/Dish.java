@@ -33,4 +33,3 @@ public class Dish {
 //	public Dish display() {
 //		return new Dish( this.dishName, this.inventory, this.price);
 	}
-}
