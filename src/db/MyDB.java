@@ -2,7 +2,7 @@ package db;
 /**
  * 
  * @author mehra
- * MYSQL database schema :coursedatabase
+ * MYSQL database schema :coursedatabase 
  * user :coursedatabase_admin
  * pass :Test1234
  * 
